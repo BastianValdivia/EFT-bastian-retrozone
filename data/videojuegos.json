@@ -1,0 +1,37 @@
+[
+  { "id": 1, "nombre": "Devil May Cry 5", "categoria": "Accion", "precio": 29990, "imagen": "img/DevilMayCry5.jpg", "descripcion": "Acción frenética con combos estilizados y tres personajes jugables, de Capcom." },
+  { "id": 2, "nombre": "DOOM Eternal", "categoria": "Accion", "precio": 34990, "imagen": "img/DoomEternal.jpg", "descripcion": "Shooter brutal y veloz contra demonios, secuela directa de DOOM (2016)." },
+  { "id": 3, "nombre": "God of War", "categoria": "Accion", "precio": 39990, "imagen": "img/GodOfWar.jpg", "descripcion": "Kratos y su hijo Atreus recorren la mitología nórdica en esta aclamada aventura de acción." },
+  { "id": 4, "nombre": "Bayonetta", "categoria": "Accion", "precio": 24990, "imagen": "img/Bayonetta.jpg", "descripcion": "Hack and slash estiloso protagonizado por una bruja con poderes sobrenaturales." },
+  { "id": 5, "nombre": "Metal Gear Rising: Revengeance", "categoria": "Accion", "precio": 19990, "imagen": "img/MetalGearRisingRevengeance.jpg", "descripcion": "Combate con katana a alta velocidad, spin-off de la saga Metal Gear." },
+
+  { "id": 6, "nombre": "Street Fighter 6", "categoria": "Lucha", "precio": 44990, "imagen": "img/StreetFighter6.jpg", "descripcion": "La última entrega de la saga de lucha más influyente de los arcades." },
+  { "id": 7, "nombre": "Mortal Kombat 11", "categoria": "Lucha", "precio": 34990, "imagen": "img/MortalKombat11.jpg", "descripcion": "Peleas brutales y fatalities icónicas en el regreso de Mortal Kombat." },
+  { "id": 8, "nombre": "Tekken 7", "categoria": "Lucha", "precio": 29990, "imagen": "img/Tekken7.jpg", "descripcion": "Combates 1 contra 1 en 3D, parte de la saga familiar Mishima." },
+  { "id": 9, "nombre": "Super Smash Bros. Ultimate", "categoria": "Lucha", "precio": 49990, "imagen": "img/SuperSmashBrosUltimate.jpg", "descripcion": "El crossover de lucha de Nintendo con el roster más grande de la saga." },
+  { "id": 10, "nombre": "Guilty Gear Strive", "categoria": "Lucha", "precio": 39990, "imagen": "img/Guilty Gear Strive.webp", "descripcion": "Lucha 2D de ritmo acelerado con estética anime y banda sonora rock." },
+
+  { "id": 11, "nombre": "The Legend of Zelda: Breath of the Wild", "categoria": "Aventura", "precio": 49990, "imagen": "img/TheLegendofZeldaBreathoftheWild.jpg", "descripcion": "Mundo abierto en Hyrule con exploración libre, de Nintendo." },
+  { "id": 12, "nombre": "Uncharted 4: A Thief's End", "categoria": "Aventura", "precio": 29990, "imagen": "img/Uncharted4AThiefsEnd.jpg", "descripcion": "La última cacería del tesoro de Nathan Drake, con set-pieces cinematográficos." },
+  { "id": 13, "nombre": "Red Dead Redemption 2", "categoria": "Aventura", "precio": 39990, "imagen": "img/RedDeadRedemption2.webp", "descripcion": "Épica del viejo oeste con un mundo abierto detallado, de Rockstar Games." },
+  { "id": 14, "nombre": "Horizon Zero Dawn", "categoria": "Aventura", "precio": 24990, "imagen": "img/HorizonZeroDawn.jpg", "descripcion": "Aloy explora un mundo postapocalíptico dominado por máquinas gigantes." },
+  { "id": 15, "nombre": "Tomb Raider", "categoria": "Aventura", "precio": 14990, "imagen": "img/TombRaider.jpg", "descripcion": "El origen de Lara Croft, reinventado con un tono más crudo y de supervivencia." },
+
+  { "id": 16, "nombre": "Pac-Man", "categoria": "Arcade", "precio": 4990, "imagen": "img/Pac-man.jpg", "descripcion": "El clásico come-puntos de los arcades de los años 80, de Namco." },
+  { "id": 17, "nombre": "Galaga", "categoria": "Arcade", "precio": 4990, "imagen": "img/Galaga.jpg", "descripcion": "Shooter espacial de naves clásico, sucesor de Galaxian." },
+  { "id": 18, "nombre": "Space Invaders", "categoria": "Arcade", "precio": 3990, "imagen": "img/SpaceInvaders.jpg", "descripcion": "Uno de los primeros shoot 'em up, pieza fundacional de los videojuegos." },
+  { "id": 19, "nombre": "Frogger", "categoria": "Arcade", "precio": 3990, "imagen": "img/Frogger.jpg", "descripcion": "Guía a la rana a través del tráfico y el río, un clásico de reflejos." },
+  { "id": 20, "nombre": "Dig Dug", "categoria": "Arcade", "precio": 3990, "imagen": "img/DigDug.jpg", "descripcion": "Excava túneles y elimina enemigos inflándolos hasta que exploten." },
+
+  { "id": 21, "nombre": "Forza Horizon 5", "categoria": "Carreras", "precio": 44990, "imagen": "img/ForzaHorizon5.jpg", "descripcion": "Carreras en mundo abierto ambientadas en México, con autos de ensueño." },
+  { "id": 22, "nombre": "Gran Turismo 7", "categoria": "Carreras", "precio": 39990, "imagen": "img/GranTurismo7.jpg", "descripcion": "El simulador de carreras más veterano de PlayStation." },
+  { "id": 23, "nombre": "Mario Kart 8 Deluxe", "categoria": "Carreras", "precio": 49990, "imagen": "img/MarioKart8Deluxe.jpg", "descripcion": "Carreras arcade con ítems y personajes de Nintendo, ideal para jugar en grupo." },
+  { "id": 24, "nombre": "Need for Speed Heat", "categoria": "Carreras", "precio": 19990, "imagen": "img/NeedforSpeedHeat.jpg", "descripcion": "Carreras callejeras ilegales de día, torneos oficiales de noche." },
+  { "id": 25, "nombre": "F1 23", "categoria": "Carreras", "precio": 34990, "imagen": "img/F123.jpg", "descripcion": "Simulador oficial de la Fórmula 1, con los equipos y pilotos de la temporada." },
+
+  { "id": 26, "nombre": "Super Mario Odyssey", "categoria": "Plataformas", "precio": 49990, "imagen": "img/SuperMarioOdyssey.jpg", "descripcion": "Mario viaja por reinos usando su gorra Cappy para poseer objetos y enemigos." },
+  { "id": 27, "nombre": "Hollow Knight", "categoria": "Plataformas", "precio": 9990, "imagen": "img/HollowKnight.jpg", "descripcion": "Metroidvania oscuro y atmosférico ambientado en un reino de insectos." },
+  { "id": 28, "nombre": "Celeste", "categoria": "Plataformas", "precio": 14990, "imagen": "img/Celeste.jpg", "descripcion": "Plataformas de precisión sobre una montaña, con una historia muy personal." },
+  { "id": 29, "nombre": "Rayman Legends", "categoria": "Plataformas", "precio": 19990, "imagen": "img/RaymanLegends.jpg", "descripcion": "Plataformas colorido y musical, secuela de Rayman Origins." },
+  { "id": 30, "nombre": "Crash Bandicoot 4: It's About Time", "categoria": "Plataformas", "precio": 29990, "imagen": "img/CrashBandicoot4.jpg", "descripcion": "El regreso de Crash con plataformas desafiantes y nuevas habilidades." }
+]

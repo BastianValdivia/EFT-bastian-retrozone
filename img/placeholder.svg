@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-label="Imagen no disponible">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0" stop-color="#0b1b3f"/><stop offset="1" stop-color="#050a1a"/>
+  </linearGradient></defs>
+  <rect width="640" height="360" fill="url(#g)"/>
+  <g transform="translate(272 132) scale(1.5)" fill="#1f4f9c">
+    <path d="M14 26h36a6 6 0 0 1 5.8 4.5l3 12A6 6 0 0 1 53 50a6 6 0 0 1-5-2.7L45 43H19l-3 4.3A6 6 0 0 1 11 50a6 6 0 0 1-5.8-7.5l3-12A6 6 0 0 1 14 26z" transform="translate(-6 -22)"/>
+  </g>
+</svg>
