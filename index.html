@@ -1,0 +1,31 @@
+<!doctype html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/png" href="%BASE_URL%img/favicon.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta
+      name="description"
+      content="Bastian RetroZone: tienda online de videojuegos con catálogo filtrable por categoría, sección de comunidad y formulario de contacto."
+    />
+    <title>Bastian RetroZone - Tienda de Videojuegos</title>
+
+    <!--
+      @font-face inline, usando %BASE_URL%: así la fuente carga bien
+      tanto en local como una vez publicada en GitHub Pages.
+    -->
+    <style>
+      @font-face {
+        font-family: 'Nasalization';
+        src: url('%BASE_URL%fonts/nasalization-rg.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+        font-display: swap;
+      }
+    </style>
+  </head>
+  <body>
+    <div id="root"></div>
+    <script type="module" src="/src/main.jsx"></script>
+  </body>
+</html>

@@ -1,0 +1,65 @@
+.titulo-principal {
+  font-family: 'Nasalization', sans-serif;
+  font-size: 3rem;
+  font-weight: bold;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+}
+
+@media (max-width: 576px) {
+  .titulo-principal {
+    font-size: 2.2rem;
+    letter-spacing: 0.04em;
+  }
+}
+
+@media (max-width: 350px) {
+  .titulo-principal {
+    font-size: 1.7rem;
+    letter-spacing: 0.02em;
+  }
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+:root {
+  --s: 200px;
+  --c1: #1d1d1d;
+  --c2: #4e4f51;
+  --c3: #3c3c3c;
+}
+
+.navbar-retro {
+  background-color: var(--c1);
+}
+
+.header-bienvenida {
+  background-color: var(--c1);
+  background:
+    repeating-conic-gradient(from 30deg, #0000 0 120deg, var(--c3) 0 50%)
+      calc(var(--s) / 2) calc(var(--s) * tan(30deg) / 2),
+    repeating-conic-gradient(from 30deg, var(--c1) 0 60deg, var(--c2) 0 120deg, var(--c3) 0 50%);
+  background-size: var(--s) calc(var(--s) * tan(30deg));
+}
+
+.card-img-top {
+  height: 180px;
+  object-fit: cover;
+  background-color: #f8f9fa;
+}
+
+/* Botón de filtro por categoría: estado activo bien visible */
+.btn-categoria.active {
+  box-shadow: inset 0 0 0 2px #fff;
+}
+
+/* Dropdown del carrito: desplegado bajo el ícono, por encima del resto */
+.carrito-dropdown {
+  position: absolute;
+  right: 0;
+  top: 100%;
+  z-index: 1030;
+  width: min(360px, 90vw);
+}
